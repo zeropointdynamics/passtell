@@ -1,0 +1,3 @@
+[submodule "CCS_23/encrypt_server_demo/libhydrogen"]
+	path = CCS_23/encrypt_server_demo/libhydrogen
+	url = https://github.com/jedisct1/libhydrogen
